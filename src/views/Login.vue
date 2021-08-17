@@ -20,7 +20,7 @@
         </form>
 
         <div class="caption">
-            <router-link to="/">회원가입</router-link>
+            <router-link to="/signup">회원가입</router-link>
             <router-link to="/">비밀번호 찾기</router-link>
         </div>
     </section>

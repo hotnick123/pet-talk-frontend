@@ -16,7 +16,7 @@
 
       <ul class="navbar_gnb">
         <li><router-link to="/login">로그인</router-link></li>
-        <li><router-link to="/">회원가입</router-link></li>
+        <li><router-link to="/signup">회원가입</router-link></li>
       </ul>
     </nav>
 
