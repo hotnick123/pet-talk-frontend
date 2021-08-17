@@ -1,6 +1,6 @@
 <template>
   <div>
-    메인 페이지
+    메인 페이지1
   </div>
 </template>
 
@@ -11,7 +11,7 @@
 export default {
   name: 'Home',
   components: {
-    
+
   }
 }
 </script>
